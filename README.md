@@ -1,5 +1,8 @@
 # SoundMajor
-by Team Raster
+by Team Raster.
 
 # 语言
-Rust + Gel
+Tauri + Gel
+
+# Raster Audio Tag
+And UCS Tag.
